@@ -17,6 +17,6 @@ Open Mermaid documentation at link https://mermaid.js.org/syntax/sequenceDiagram
 Based on the identified components and interactions, create the Mermaid code for the sequence diagram. This involves defining the entities, their interactions, and any additional details such as activation bars, notes, or comments. Use background highlighting to differentiate between different types of interactions or components if necessary to make the diagram clearer. Print the code in the output so that it can be easily copied and pasted into the Mermaid live editor.
 
 # Opening Mermaid live editor
-Use Node.js to execute  ```node pako_compress_and_open_in_mermaid_live_editor.js "mermaid_code"``` and replace mermaid_code placeholder with generated mermaid sequence diagram to receive the URL. 
+Use Node.js script to execute  ```node pako_compress_and_open_in_mermaid_live_editor.js "mermaid_code"``` and replace mermaid_code placeholder with generated mermaid sequence diagram to receive the URL. 
 
-Print the URL at https://mermaid.live/edit#pako:<pako-compressed-Mermaid-code>.
+Open the URL at https://mermaid.live/edit#pako:output_of_script_call where you replace "output_of_script_call" with actual output of the script pako_compress_and_open_in_mermaid_live_editor.js.
