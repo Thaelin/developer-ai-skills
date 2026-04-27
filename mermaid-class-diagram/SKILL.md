@@ -1,7 +1,6 @@
 ---
 name: mermaid-class-diagram
 description: Create class diagram as a code through Mermaid.js from OOP source code, save it as a markdown file and also generate SVG graphic representation. Use this skill when the user asks for a class diagram representing OOP relationships such as inheritance, composition, aggregation, or association between classes. User can request it for specific feature or in general.
-license: Complete terms in LICENSE.txt
 ---
 
 # Check prerequisites

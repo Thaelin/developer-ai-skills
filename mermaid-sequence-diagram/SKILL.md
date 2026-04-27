@@ -1,7 +1,6 @@
 ---
 name: mermaid-sequence-diagram
 description: Create sequence diagram as a code through Mermaid.js, save it as a markdown file and also generate SVG graphic representation. Use this skill when the user asks for sequence diagram of some flow where multiple components interact with each other. 
-license: Complete terms in LICENSE.txt
 ---
 
 # Check prerequisites
